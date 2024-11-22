@@ -11,6 +11,12 @@ namespace _6351071052_LTWEB_K63.Controllers
         // GET: Home
         public ActionResult Index()
         {
+
+            return View();
+        }
+        public ActionResult test()
+        {
+
             return View();
         }
     }
